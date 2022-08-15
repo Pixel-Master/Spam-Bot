@@ -46,9 +46,9 @@ if __name__ == "__main__":
     l3.place(x=10, y=200)
     l4 = tk.Label(root, text="Delay:", font=("Arial", 25), bg="black", fg="white")
     l4.place(x=10, y=240)
-    main_text = tk.Label(root, text="A completely normal", font=("PT mono bold", 40), bg="black", fg="white")
+    main_text = tk.Label(root, text="A completely normal", font=("Arial", 40), bg="black", fg="white")
     main_text.place(x=30, y=0)
-    main_text2 = tk.Label(root, text="Spam-Bot", font=("menlo bold", 50), bg="black", fg="white")
+    main_text2 = tk.Label(root, text="Spam-Bot", font=("Arial bold", 50), bg="black", fg="white")
     main_text2.place(x=130, y=50)
 
     # Start with parameters
