@@ -18,7 +18,7 @@ A simple Spam-Bot written in Python with a user-friendly UI
 
 - [Windows](https://github.com/Pixel-Master/Spam-Bot/releases/download/v1.0.0/Spam-Bot.exe)
 - [Mac](https://github.com/Pixel-Master/Spam-Bot/releases/download/v1.0.0/Spam-Bot.app.zip)
-- other Platforms
+- [other Platforms](https://github.com/Pixel-Master/Spam-Bot#running-from-source)
 
 
 ## Running from Source 
