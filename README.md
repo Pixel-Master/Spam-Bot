@@ -1,6 +1,8 @@
 # Spam-Bot
 A simple Spam-Bot written in Python with a user-friendly UI
 
+After you pressed "Start", it is going to type the text automatically (after the configured delay) and press enter after the text has been written. That means that it will work with alsmost all chat-apps.
+
 ## Features:
 - Write content automatically
 - Choose how often your text message is written
